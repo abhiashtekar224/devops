@@ -1,2 +1,4 @@
 Welcome to Git training and operations...
 Various commands to be executed.
+
+Stashing demo to be presented.
